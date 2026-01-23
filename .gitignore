@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# flake shell
+.direnv/
+flake.lock
+flake.nix
